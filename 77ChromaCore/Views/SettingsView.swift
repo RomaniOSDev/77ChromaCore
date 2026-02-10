@@ -42,7 +42,7 @@ struct SettingsView: View {
                     }
                     .listRowBackground(Color.white.opacity(0.08))
                     Button {
-                        openURL("https://example.com/privacy-policy")
+                        openURL("https://www.termsfeed.com/live/10337594-9955-4e1a-aa09-4e343660d86b")
                     } label: {
                         HStack {
                             Text("Privacy Policy")
@@ -54,7 +54,7 @@ struct SettingsView: View {
                     }
                     .listRowBackground(Color.white.opacity(0.08))
                     Button {
-                        openURL("https://example.com/terms-of-use")
+                        openURL("https://www.termsfeed.com/live/bea0159e-7045-443a-b0d5-9e79c0edbb84")
                     } label: {
                         HStack {
                             Text("Terms of Use")
